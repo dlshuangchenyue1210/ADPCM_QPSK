@@ -1,0 +1,16 @@
+# Claude Code configuration
+.claude/
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.mat
+
+# Test outputs
+test.wav
+test.mp3
+Rx_*.wav
+
+# OS files
+.DS_Store
+Thumbs.db
